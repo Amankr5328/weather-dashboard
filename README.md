@@ -33,7 +33,7 @@ To run this application locally, follow these steps:
 
 ## Credits
 
-This project was created by Aman Kumar.
+This project is created by Aman Kumar.
 
 
 
